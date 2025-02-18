@@ -142,6 +142,7 @@ body {
 
 .desplegable .el {    
     display: flex;
+    flex-direction: column;
     align-items: center;
     background: #eee;
     color: #222;
